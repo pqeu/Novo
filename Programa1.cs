@@ -1,4 +1,4 @@
-﻿//Alteração feita por Breno 
+
 // Leitor de inputs do teclado 
 public class JewelCollector {
 
